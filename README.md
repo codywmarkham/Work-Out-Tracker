@@ -4,7 +4,7 @@
 When you need an app to track your workouts for the day or week use this easy to use Work Out Tracker!
 
 ## Usage
-You can access the app here: []().
+You can access the app here: [https://cody-work-out-tracker.herokuapp.com/](https://cody-work-out-tracker.herokuapp.com/).
 
 ## User Story
 **AS A(N)** person trying to workout<br>
@@ -22,8 +22,8 @@ I **WANT** to plan my workout and track progress<br>
 ## Mock-up
 The following picture shows the website appearance and capabilities:
 
-<img src="./images/.png" width="300"><br>
-<img src="./images/.png" width="300"><br>
+<img src="./images/front.png" width="300"><br>
+<img src="./images/back.png" width="300"><br>
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
