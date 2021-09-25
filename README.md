@@ -22,8 +22,8 @@ I **WANT** to plan my workout and track progress<br>
 ## Mock-up
 The following picture shows the website appearance and capabilities:
 
-<img src="./images/front.png" width="300"><br>
-<img src="./images/back.png" width="300"><br>
+![Mock-Up](https://github.com/codywmarkham/Work-Out-Tracker/blob/main/images/front.PNG)
+![Mock-Up](https://github.com/codywmarkham/Work-Out-Tracker/blob/main/images/back.PNG)
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
