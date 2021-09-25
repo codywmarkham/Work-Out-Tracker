@@ -36,6 +36,5 @@ _This assumes that you have setup your own SSH keys to connect with Github._
 ## References
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)<br>
 [W3 Schools](https://www.w3schools.com/)<br>
-[jQuery](https://jquery.com)<br>
-[Materialize CSS](https://materializecss.com/)<br>
-[Array Sorting](https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/)
+[Heroku](https://dashboard.heroku.com/)<br>
+[MongoDB](https://cloud.mongodb.com/)
